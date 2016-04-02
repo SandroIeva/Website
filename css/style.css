@@ -1,0 +1,225 @@
+html, body {
+	
+    height:100%;
+    width: 100%;
+    background-color: #fff !important;
+    color: #ccc !important;
+    font-size: 1px !important;
+    padding: 0px  !important;
+    margin: 0px  !important;
+	line-height: 23px   !important;
+    font-family: 'Roboto', sans-serif !important;   
+}
+
+#mc_embed_signup{color: #646565; clear:left; font:14px; }
+
+a:active {
+	color: #8a8993  !important;
+    outline: none  !important;
+    outline: none  !important;
+	text-decoration: none  !important;
+}
+
+#mc_embed_signup input {
+    border:  0  !important;
+}
+
+label {
+	color: #fff;
+}
+
+.img_logo {
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+.img_logo2 {
+	margin-left: 8px;
+	margin-bottom: 5px;
+}
+
+a {
+	color: #8a8993 !important;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif !important;
+	transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+	text-decoration: none !important;
+	color: #fff !important;
+}
+
+a:focus {
+outline: none !important;
+}
+
+* {
+  border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+}
+
+.blue_line {
+	position: absolute;
+	height: 7px;
+	width: 100%;
+	background-color: #69c6de;
+}
+
+.headline {    
+	text-align: center;
+	text-transform: uppercase;
+    color: #4c4b4b !important;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px !important;
+    padding-bottom: 60px;
+	font-style:italic;
+
+}
+
+.logo {
+	padding-top: 50px;
+	min-height: 140px;
+	padding-bottom: 50px;
+}
+
+.button {
+	border-color: #4c4b4b !important;
+	margin-top: 20px !important;
+	background-color: #4c4b4b !important;
+	margin-bottom: 20px !important;
+
+}
+
+.text_area {
+	margin-bottom: 50px;
+}
+
+.button:hover {
+	background-color: #5293b6 !important;
+}
+
+h1 {    
+	text-transform: uppercase;
+    color: #4c4b4b;
+    font-family: 'Roboto', sans-serif;
+	font-weight: 300 !important;
+    font-size: 32px !important;
+    padding-bottom: 5px;
+}
+
+h2 {    
+	text-transform: uppercase;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+	font-weight: 500 !important;
+    font-size: 25px !important;
+	padding-left: 12px;
+    padding-bottom: 5px;
+}
+
+.box {
+	background: rgba(56,192,155,0.7);
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	
+}
+
+.foot_section {
+	position: relative;	
+	width: auto;
+    overflow: hidden;
+	font-size: 14px;
+	color: #4c4b4b;
+	padding-top: 20px;
+	padding-right: 50px;
+	text-transform: uppercase;
+	text-align: right;
+}
+
+
+
+
+
+.section1 {  
+	
+	font-size: 15px !important;
+	color: #4c4b4b;
+	top: 7px;
+	position: relative;	
+	width: auto;
+    overflow: hidden;
+	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&1+27,0+100 */
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 27%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 27%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 27%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
+	
+}
+
+
+@media only screen and (max-width: 1200px) {
+	
+
+
+}
+
+@media only screen and (max-width: 992px) {
+	
+	
+}
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+	
+	.section1 {  
+		font-size: 22px !important;
+	}
+	
+	.img-responsive {
+		width: 216px;
+		height: 80px !important;
+	}
+	
+	.logo {
+	min-height: 140px;
+
+}
+	
+.foot_section {
+	font-size: 17px;
+	padding-top: 14px;
+	padding-right: 25px;
+	padding-bottom: 14px;
+
+}	
+	.box {
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+	
+}
+
+	
+	
+}
+
+@media only screen and (max-width: 320px) {
+	
+	.headline {    
+    font-size: 21px !important;
+
+
+}
+
+}
